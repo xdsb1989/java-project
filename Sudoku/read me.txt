@@ -1,0 +1,4 @@
+1. input is a 81 (which means 9 x 9) characters line. Using "." to be the blank place where the program need to find out. for example:
+"3.21..56.79.84...45.23..(fill out until get 81 length)". The first 9 characters represent the first row, so there are 9 rows total.
+
+2. output a 81 length string which represent a 9x9 matrix.

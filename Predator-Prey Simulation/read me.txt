@@ -1,0 +1,1 @@
+1. All the .java are in one project. Run the Simulation.java it simulates the change of the world. The world is represented by a M x M matrix. The "G" represents grass, the "X" represnet fox, the "R" represent rabbit, and the "." represent empty space.
